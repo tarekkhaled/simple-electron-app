@@ -1,0 +1,14 @@
+{
+  "name": "electron-simple-app",
+  "version": "1.0.0",
+  "description": "create electron simple app to show video length",
+  "main": "index.js",
+  "scripts": {
+    "start" : "electron ."
+  },
+  "author": "Tarek Khaled",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^5.0.6"
+  }
+}
